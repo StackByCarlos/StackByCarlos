@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="96" viewBox="0 0 96 96" role="img" aria-label="AWS Fargate">
+  <title>AWS Fargate</title>
+  <rect x="2" y="2" width="92" height="92" rx="20" fill="#FFFFFF" stroke="#D0D7DE" stroke-width="2"/>
+  <rect x="16" y="16" width="64" height="64" rx="16" fill="#FF9900"/><path d="M27 29h42v12H27zm0 18h42v20H27z" fill="#FFFFFF"/><path d="M34 53h8v8h-8zm12 0h8v8h-8zm12 0h5v8h-5z" fill="#FF9900"/><path d="m59 26 10 9-10 9" fill="none" stroke="#FF9900" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
