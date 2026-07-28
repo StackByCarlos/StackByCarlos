@@ -95,7 +95,6 @@ adaptado a necesidades reales.
       <br>
       <strong>MySQL</strong>
     </td>
-
     <td align="center" width="140">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
            width="55"
@@ -104,7 +103,6 @@ adaptado a necesidades reales.
       <br>
       <strong>SQL Server</strong>
     </td>
-
     <td align="center" width="140">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
            width="65"
@@ -137,7 +135,6 @@ adaptado a necesidades reales.
       <br>
       <strong>JSON</strong>
     </td>
-
     <td align="center" width="130">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg"
            width="55"
@@ -146,7 +143,6 @@ adaptado a necesidades reales.
       <br>
       <strong>SFTP</strong>
     </td>
-
     <td align="center" width="130">
       <img src="https://cdn.simpleicons.org/telegram/26A5E4"
            width="50"
@@ -155,7 +151,6 @@ adaptado a necesidades reales.
       <br>
       <strong>Telegram API</strong>
     </td>
-
     <td align="center" width="130">
       <img src="https://cdn.simpleicons.org/amazons3/569A31"
            width="50"
@@ -190,7 +185,6 @@ adaptado a necesidades reales.
       <br>
       <strong>Amazon S3</strong>
     </td>
-
     <td align="center" width="160">
       <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900"
            width="55"
@@ -199,7 +193,6 @@ adaptado a necesidades reales.
       <br>
       <strong>Secrets Manager</strong>
     </td>
-
     <td align="center" width="160">
       <img src="https://cdn.simpleicons.org/amazonecs/FF9900"
            width="55"
@@ -208,7 +201,6 @@ adaptado a necesidades reales.
       <br>
       <strong>Amazon ECS</strong>
     </td>
-
     <td align="center" width="160">
       <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900"
            width="55"
@@ -244,7 +236,6 @@ adaptado a necesidades reales.
       <br>
       <strong>C#</strong>
     </td>
-
     <td align="center" width="150">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
            width="55"
@@ -253,7 +244,6 @@ adaptado a necesidades reales.
       <br>
       <strong>.NET</strong>
     </td>
-
     <td align="center" width="150">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
            width="55"
