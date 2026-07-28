@@ -239,24 +239,19 @@ Estoy preparando **proyectos demostrativos, diseños reutilizables, componentes 
 
 <!-- ========================= APRENDIZAJE ========================= -->
 
-## 🌱 Actualmente aprendiendo
+## 🌱 Actualmente fortaleciendo
 
-Actualmente estoy fortaleciendo conocimientos en tecnologías frontend modernas:
+Actualmente estoy ampliando mis conocimientos en desarrollo frontend moderno
+mediante proyectos de práctica, prototipos y componentes reutilizables.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-En%20aprendizaje-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript en aprendizaje" />
-  <img src="https://img.shields.io/badge/React-En%20aprendizaje-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="React en aprendizaje" />
-  <img src="https://img.shields.io/badge/Next.js-En%20aprendizaje-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js en aprendizaje" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-En%20aprendizaje-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS en aprendizaje" />
+  <img src="https://img.shields.io/badge/TypeScript-En%20proceso-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-En%20proceso-61DAFB?style=for-the-badge&logo=react&logoColor=111827" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-En%20proceso-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-En%20proceso-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-- TypeScript
-- React
-- Next.js
-- Tailwind CSS
-- Arquitectura frontend basada en componentes
-
-> Estas tecnologías se muestran como parte de mi proceso de aprendizaje y todavía no forman parte de mi stack de experiencia productiva.
+> Estas tecnologías se encuentran en proceso de consolidación y todavía no forman parte de mi experiencia productiva principal.
 
 ---
 
