@@ -85,34 +85,140 @@ adaptado a necesidades reales.
 
 ### Bases de datos
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+           width="55"
+           height="55"
+           alt="MySQL" />
+      <br>
+      <strong>MySQL</strong>
+    </td>
+
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
+           width="55"
+           height="55"
+           alt="SQL Server" />
+      <br>
+      <strong>SQL Server</strong>
+    </td>
+
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
+           width="65"
+           height="55"
+           alt="Oracle" />
+      <br>
+      <strong>Oracle</strong>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-Query%20Language-336791?style=flat-square" alt="SQL" />
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL%20Server-Database-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Oracle-Database-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle" />
+  <img src="https://img.shields.io/badge/SQL-Consultas%20y%20modelado-336791?style=flat-square"
+       alt="SQL" />
+  <img src="https://img.shields.io/badge/Procedimientos%20almacenados-Database-555555?style=flat-square"
+       alt="Procedimientos almacenados" />
+  <img src="https://img.shields.io/badge/Reportes%20y%20optimización-Database-555555?style=flat-square"
+       alt="Reportes y optimización" />
 </p>
 
 ### Integraciones y servicios utilizados
 
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg"
+           width="50"
+           height="50"
+           alt="JSON" />
+      <br>
+      <strong>JSON</strong>
+    </td>
+
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg"
+           width="55"
+           height="55"
+           alt="SFTP y SSH" />
+      <br>
+      <strong>SFTP</strong>
+    </td>
+
+    <td align="center" width="130">
+      <img src="https://cdn.simpleicons.org/telegram/26A5E4"
+           width="50"
+           height="50"
+           alt="Telegram" />
+      <br>
+      <strong>Telegram API</strong>
+    </td>
+
+    <td align="center" width="130">
+      <img src="https://cdn.simpleicons.org/amazons3/569A31"
+           width="50"
+           height="50"
+           alt="Amazon S3" />
+      <br>
+      <strong>Amazon S3</strong>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/REST-APIs-02569B?style=flat-square" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/JSON-Data%20Exchange-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
-  <img src="https://img.shields.io/badge/SFTP-File%20Transfer-2F6FEB?style=flat-square" alt="SFTP" />
-  <img src="https://img.shields.io/badge/Telegram-Bot%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bot API" />
+  <img src="https://img.shields.io/badge/REST-APIs-02569B?style=flat-square"
+       alt="REST APIs" />
+  <img src="https://img.shields.io/badge/JSON-Intercambio%20de%20datos-555555?style=flat-square"
+       alt="JSON" />
+  <img src="https://img.shields.io/badge/SFTP-Transferencia%20segura-2F6FEB?style=flat-square"
+       alt="SFTP" />
+  <img src="https://img.shields.io/badge/Telegram-Bot%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white"
+       alt="Telegram Bot API" />
 </p>
 
 ### Servicios de AWS utilizados
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Amazon%20S3-File%20Storage-569A31?style=flat-square&logo=amazons3&logoColor=white" alt="Amazon S3" />
-  <img src="https://img.shields.io/badge/AWS%20Secrets%20Manager-Secrets-DD344C?style=flat-square" alt="AWS Secrets Manager" />
-  <img src="https://img.shields.io/badge/Amazon%20ECS-Containers-FF9900?style=flat-square" alt="Amazon ECS" />
-  <img src="https://img.shields.io/badge/AWS%20Fargate-Execution-FF9900?style=flat-square" alt="AWS Fargate" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="160">
+      <img src="https://cdn.simpleicons.org/amazons3/569A31"
+           width="50"
+           height="50"
+           alt="Amazon S3" />
+      <br>
+      <strong>Amazon S3</strong>
+    </td>
+
+    <td align="center" width="160">
+      <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900"
+           width="55"
+           height="55"
+           alt="AWS Secrets Manager" />
+      <br>
+      <strong>Secrets Manager</strong>
+    </td>
+
+    <td align="center" width="160">
+      <img src="https://cdn.simpleicons.org/amazonecs/FF9900"
+           width="55"
+           height="55"
+           alt="Amazon ECS" />
+      <br>
+      <strong>Amazon ECS</strong>
+    </td>
+
+    <td align="center" width="160">
+      <img src="https://cdn.simpleicons.org/amazonwebservices/FF9900"
+           width="55"
+           height="55"
+           alt="AWS Fargate" />
+      <br>
+      <strong>AWS Fargate</strong>
+    </td>
+  </tr>
+</table>
 
 ### Contenedores, despliegue y herramientas
 
@@ -128,10 +234,44 @@ adaptado a necesidades reales.
 
 ### Aplicaciones de escritorio
 
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+           width="55"
+           height="55"
+           alt="C#" />
+      <br>
+      <strong>C#</strong>
+    </td>
+
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"
+           width="55"
+           height="55"
+           alt=".NET" />
+      <br>
+      <strong>.NET</strong>
+    </td>
+
+    <td align="center" width="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"
+           width="55"
+           height="55"
+           alt="Windows" />
+      <br>
+      <strong>WPF / Windows</strong>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/C%23-Desktop-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C# Desktop" />
-  <img src="https://img.shields.io/badge/WPF-Windows%20Applications-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="WPF" />
-  <img src="https://img.shields.io/badge/.NET-Windows%20Services-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Windows Services" />
+  <img src="https://img.shields.io/badge/WPF-Aplicaciones%20de%20escritorio-512BD4?style=flat-square&logo=dotnet&logoColor=white"
+       alt="WPF" />
+  <img src="https://img.shields.io/badge/MVVM-Arquitectura-6C4AB6?style=flat-square"
+       alt="MVVM" />
+  <img src="https://img.shields.io/badge/Windows-Servicios%20y%20agentes-0078D4?style=flat-square&logo=windows11&logoColor=white"
+       alt="Windows" />
 </p>
 
 <details>
