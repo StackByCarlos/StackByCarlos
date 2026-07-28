@@ -76,22 +76,20 @@ También desarrollo de manera independiente **Conexión Creativa**, una iniciati
 
 ## 🛠️ Tecnologías utilizadas en proyectos
 
-> Todas las categorías utilizan el mismo formato: **icono, nombre y tarjeta**.
-
 <p align="center"><img src="https://img.shields.io/badge/LENGUAJES%20Y%20BACKEND-1D4ED8?style=for-the-badge" alt="Lenguajes y backend" /></p>
 
 <table align="center">
   <tr>
-    <td align="center" width="135"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="58" height="58" alt="Java" /><br><strong>Java</strong></td>
-    <td align="center" width="135"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="58" height="58" alt="Spring Boot" /><br><strong>Spring Boot</strong></td>
-    <td align="center" width="135"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="58" height="58" alt="PHP" /><br><strong>PHP</strong></td>
-    <td align="center" width="135"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="58" height="58" alt="C#" /><br><strong>C#</strong></td>
+    <td align="center" width="135"><img src="./assets/icons/java.svg" width="62" height="62" alt="Java" /><br><strong>Java</strong></td>
+    <td align="center" width="135"><img src="./assets/icons/spring-boot.svg" width="62" height="62" alt="Spring Boot" /><br><strong>Spring Boot</strong></td>
+    <td align="center" width="135"><img src="./assets/icons/php.svg" width="62" height="62" alt="PHP" /><br><strong>PHP</strong></td>
+    <td align="center" width="135"><img src="./assets/icons/csharp.svg" width="62" height="62" alt="C#" /><br><strong>C#</strong></td>
   </tr>
   <tr>
-    <td align="center" width="135"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="58" height="58" alt=".NET" /><br><strong>.NET</strong></td>
-    <td align="center" width="135"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="58" height="58" alt="JavaScript" /><br><strong>JavaScript</strong></td>
-    <td align="center" width="135"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="58" height="58" alt="Maven" /><br><strong>Maven</strong></td>
-    <td align="center" width="135"><strong>REST</strong><br><sub>Servicios backend</sub></td>
+    <td align="center" width="135"><img src="./assets/icons/dotnet.svg" width="62" height="62" alt=".NET" /><br><strong>.NET</strong></td>
+    <td align="center" width="135"><img src="./assets/icons/javascript.svg" width="62" height="62" alt="JavaScript" /><br><strong>JavaScript</strong></td>
+    <td align="center" width="135"><img src="./assets/icons/maven.svg" width="62" height="62" alt="Maven" /><br><strong>Maven</strong></td>
+    <td align="center" width="135"><img src="./assets/icons/rest-api.svg" width="62" height="62" alt="REST APIs" /><br><strong>REST APIs</strong></td>
   </tr>
 </table>
 
@@ -101,11 +99,11 @@ También desarrollo de manera independiente **Conexión Creativa**, una iniciati
 
 <table align="center">
   <tr>
-    <td align="center" width="135"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="58" height="58" alt="JavaScript" /><br><strong>JavaScript</strong></td>
-    <td align="center" width="135"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="58" height="58" alt="HTML5" /><br><strong>HTML5</strong></td>
-    <td align="center" width="135"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="58" height="58" alt="CSS3" /><br><strong>CSS3</strong></td>
-    <td align="center" width="135"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="58" height="58" alt="Bootstrap" /><br><strong>Bootstrap</strong></td>
-    <td align="center" width="135"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="58" height="58" alt="jQuery" /><br><strong>jQuery</strong></td>
+    <td align="center" width="135"><img src="./assets/icons/javascript.svg" width="62" height="62" alt="JavaScript" /><br><strong>JavaScript</strong></td>
+    <td align="center" width="135"><img src="./assets/icons/html5.svg" width="62" height="62" alt="HTML5" /><br><strong>HTML5</strong></td>
+    <td align="center" width="135"><img src="./assets/icons/css3.svg" width="62" height="62" alt="CSS3" /><br><strong>CSS3</strong></td>
+    <td align="center" width="135"><img src="./assets/icons/bootstrap.svg" width="62" height="62" alt="Bootstrap" /><br><strong>Bootstrap</strong></td>
+    <td align="center" width="135"><img src="./assets/icons/jquery.svg" width="62" height="62" alt="jQuery" /><br><strong>jQuery</strong></td>
   </tr>
 </table>
 
@@ -117,9 +115,9 @@ También desarrollo de manera independiente **Conexión Creativa**, una iniciati
 
 <table align="center">
   <tr>
-    <td align="center" width="160"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="62" height="62" alt="MySQL" /><br><strong>MySQL</strong></td>
-    <td align="center" width="160"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" width="62" height="62" alt="SQL Server" /><br><strong>SQL Server</strong></td>
-    <td align="center" width="160"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="72" height="62" alt="Oracle" /><br><strong>Oracle</strong></td>
+    <td align="center" width="160"><img src="./assets/icons/mysql.svg" width="62" height="62" alt="MySQL" /><br><strong>MySQL</strong></td>
+    <td align="center" width="160"><img src="./assets/icons/sql-server.svg" width="62" height="62" alt="SQL Server" /><br><strong>SQL Server</strong></td>
+    <td align="center" width="160"><img src="./assets/icons/oracle.svg" width="62" height="62" alt="Oracle" /><br><strong>Oracle</strong></td>
   </tr>
 </table>
 
@@ -145,7 +143,7 @@ También desarrollo de manera independiente **Conexión Creativa**, una iniciati
 
 <table align="center">
   <tr>
-    <td align="center" width="165"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v23.0/dist/Storage/SimpleStorageService.png" width="62" height="62" alt="Amazon S3" /><br><strong>Amazon S3</strong></td>
+    <td align="center" width="165"><img src="./assets/icons/amazon-s3.svg" width="62" height="62" alt="Amazon S3" /><br><strong>Amazon S3</strong></td>
     <td align="center" width="165"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v23.0/dist/SecurityIdentityCompliance/SecretsManager.png" width="62" height="62" alt="AWS Secrets Manager" /><br><strong>Secrets Manager</strong></td>
     <td align="center" width="165"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v23.0/dist/Containers/ElasticContainerService.png" width="62" height="62" alt="Amazon ECS" /><br><strong>Amazon ECS</strong></td>
     <td align="center" width="165"><img src="https://raw.githubusercontent.com/awslabs/aws-icons-for-plantuml/v23.0/dist/Containers/Fargate.png" width="62" height="62" alt="AWS Fargate" /><br><strong>AWS Fargate</strong></td>
@@ -158,16 +156,16 @@ También desarrollo de manera independiente **Conexión Creativa**, una iniciati
 
 <table align="center">
   <tr>
-    <td align="center" width="135"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="58" height="58" alt="Docker" /><br><strong>Docker</strong></td>
-    <td align="center" width="135"><img src="./assets/icons/docker-compose.svg" width="58" height="58" alt="Docker Compose" /><br><strong>Compose</strong></td>
-    <td align="center" width="135"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="58" height="58" alt="Git" /><br><strong>Git</strong></td>
-    <td align="center" width="135"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="58" height="58" alt="GitHub" /><br><strong>GitHub</strong></td>
+    <td align="center" width="135"><img src="./assets/icons/docker.svg" width="62" height="62" alt="Docker" /><br><strong>Docker</strong></td>
+    <td align="center" width="135"><img src="./assets/icons/docker-compose.svg" width="62" height="62" alt="Docker Compose" /><br><strong>Compose</strong></td>
+    <td align="center" width="135"><img src="./assets/icons/git.svg" width="62" height="62" alt="Git" /><br><strong>Git</strong></td>
+    <td align="center" width="135"><img src="./assets/icons/github.svg" width="62" height="62" alt="GitHub" /><br><strong>GitHub</strong></td>
   </tr>
   <tr>
-    <td align="center" width="135"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="58" height="58" alt="Maven" /><br><strong>Maven</strong></td>
-    <td align="center" width="135"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="58" height="58" alt="Postman" /><br><strong>Postman</strong></td>
-    <td align="center" width="135"><img src="./assets/icons/plesk.svg" width="58" height="58" alt="Plesk" /><br><strong>Plesk</strong></td>
-    <td align="center" width="135"><strong>Hosting</strong><br><sub>Configuración y despliegue</sub></td>
+    <td align="center" width="135"><img src="./assets/icons/maven.svg" width="62" height="62" alt="Maven" /><br><strong>Maven</strong></td>
+    <td align="center" width="135"><img src="./assets/icons/postman.svg" width="62" height="62" alt="Postman" /><br><strong>Postman</strong></td>
+    <td align="center" width="135"><img src="./assets/icons/plesk.svg" width="62" height="62" alt="Plesk" /><br><strong>Plesk</strong></td>
+    <td align="center" width="135"><img src="./assets/icons/hosting.svg" width="62" height="62" alt="Hosting" /><br><strong>Hosting</strong><br><sub>Configuración y despliegue</sub></td>
   </tr>
 </table>
 
@@ -177,9 +175,9 @@ También desarrollo de manera independiente **Conexión Creativa**, una iniciati
 
 <table align="center">
   <tr>
-    <td align="center" width="170"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="62" height="62" alt="C#" /><br><strong>C#</strong></td>
-    <td align="center" width="170"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="62" height="62" alt=".NET" /><br><strong>.NET</strong></td>
-    <td align="center" width="170"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" width="62" height="62" alt="WPF y Windows" /><br><strong>WPF / Windows</strong></td>
+    <td align="center" width="170"><img src="./assets/icons/csharp.svg" width="62" height="62" alt="C#" /><br><strong>C#</strong></td>
+    <td align="center" width="170"><img src="./assets/icons/dotnet.svg" width="62" height="62" alt=".NET" /><br><strong>.NET</strong></td>
+    <td align="center" width="170"><img src="./assets/icons/windows-wpf.svg" width="62" height="62" alt="WPF y Windows" /><br><strong>WPF / Windows</strong></td>
   </tr>
 </table>
 
