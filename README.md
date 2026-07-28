@@ -1,10 +1,11 @@
 <div align="center">
 
-StackByCarlos
+# StackByCarlos
 
-Carlos Abraham · Software Developer
+## Carlos Abraham · Software Developer
 
-Desarrollo sistemas empresariales, servicios backend, APIs, automatizacionese integraciones orientadas a resolver necesidades reales.
+Desarrollo sistemas empresariales, servicios backend, APIs, automatizaciones  
+e integraciones orientadas a resolver necesidades reales.
 
 <p>
   <img src="https://img.shields.io/badge/Backend-Development-0D1117?style=for-the-badge" alt="Backend Development" />
@@ -13,61 +14,50 @@ Desarrollo sistemas empresariales, servicios backend, APIs, automatizacionese in
   <img src="https://img.shields.io/badge/Process-Automation-0D1117?style=for-the-badge" alt="Process Automation" />
 </p>
 
-Java · Spring Boot · PHP · C#/.NET · JavaScript · SQL
+**Java · Spring Boot · PHP · C#/.NET · JavaScript · SQL**
 
 </div>
 
-👨‍💻 Sobre mí
+---
 
-Soy desarrollador de software enfocado en construir soluciones empresariales,aplicaciones web, servicios backend, APIs e integraciones entre sistemas.
+## 👨‍💻 Sobre mí
 
-He trabajado en proyectos que abarcan desde el diseño de bases de datos y laimplementación de lógica de negocio, hasta interfaces administrativas,automatización de procesos, transferencia de archivos y despliegue deservicios contenerizados.
+Soy desarrollador de software enfocado en construir soluciones empresariales,
+aplicaciones web, servicios backend, APIs e integraciones entre sistemas.
 
-También desarrollo de manera independiente Conexión Creativa, unainiciativa orientada a la creación de soluciones tecnológicas y softwareadaptado a necesidades reales.
+He trabajado en proyectos que abarcan desde el diseño de bases de datos y la
+implementación de lógica de negocio, hasta interfaces administrativas,
+automatización de procesos, transferencia de archivos y despliegue de
+servicios contenerizados.
 
-Parte de mi experiencia corresponde a proyectos privados que no puedenpublicarse por motivos de confidencialidad. Los proyectos demostrativosde este perfil utilizarán datos, credenciales y escenarios ficticios.
+También desarrollo de manera independiente **Conexión Creativa**, una
+iniciativa orientada a la creación de soluciones tecnológicas y software
+adaptado a necesidades reales.
 
-🚀 Áreas de desarrollo
+> Parte de mi experiencia corresponde a proyectos privados que no pueden
+> publicarse por motivos de confidencialidad. Los proyectos demostrativos
+> de este perfil utilizarán datos, credenciales y escenarios ficticios.
 
-Área
+---
 
-Enfoque
+## 🚀 Áreas de desarrollo
 
-Sistemas empresariales
+| Área | Enfoque |
+|---|---|
+| **Sistemas empresariales** | ERP, administración, operaciones, finanzas, recursos humanos y procesos internos |
+| **Backend** | Lógica de negocio, servicios, APIs REST y microservicios |
+| **Aplicaciones web** | Interfaces responsivas, paneles administrativos y módulos operativos |
+| **Integraciones** | SFTP, Amazon S3, servicios externos y comunicación entre sistemas |
+| **Automatización** | Procesamiento de archivos, tareas programadas y flujos operativos |
+| **Aplicaciones de escritorio** | Herramientas y agentes para Windows con C# y WPF |
+| **Bases de datos** | Modelado, consultas, procedimientos, reportes y optimización |
+| **Infraestructura** | Contenedores, configuración de servicios y despliegues |
 
-ERP, administración, operaciones, finanzas, recursos humanos y procesos internos
+---
 
-Backend
+## 🛠️ Tecnologías utilizadas en proyectos
 
-Lógica de negocio, servicios, APIs REST y microservicios
-
-Aplicaciones web
-
-Interfaces responsivas, paneles administrativos y módulos operativos
-
-Integraciones
-
-SFTP, Amazon S3, servicios externos y comunicación entre sistemas
-
-Automatización
-
-Procesamiento de archivos, tareas programadas y flujos operativos
-
-Aplicaciones de escritorio
-
-Herramientas y agentes para Windows con C# y WPF
-
-Bases de datos
-
-Modelado, consultas, procedimientos, reportes y optimización
-
-Infraestructura
-
-Contenedores, configuración de servicios y despliegues
-
-🛠️ Tecnologías utilizadas en proyectos
-
-Lenguajes y backend
+### Lenguajes y backend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,php,cs,dotnet,js,maven" alt="Lenguajes y backend" />
@@ -80,7 +70,7 @@ Lenguajes y backend
   <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C# and .NET" />
 </p>
 
-Desarrollo web
+### Desarrollo web
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery" alt="Desarrollo web" />
@@ -93,7 +83,7 @@ Desarrollo web
   <img src="https://img.shields.io/badge/SweetAlert2-User%20Interface-7066E0?style=flat-square" alt="SweetAlert2" />
 </p>
 
-Bases de datos
+### Bases de datos
 
 <table align="center">
   <tr>
@@ -133,7 +123,7 @@ Bases de datos
        alt="Reportes y optimización" />
 </p>
 
-Integraciones y servicios utilizados
+### Integraciones y servicios utilizados
 
 <table align="center">
   <tr>
@@ -183,7 +173,7 @@ Integraciones y servicios utilizados
        alt="Telegram Bot API" />
 </p>
 
-Servicios de AWS utilizados
+### Servicios de AWS utilizados
 
 <table align="center">
   <tr>
@@ -222,7 +212,7 @@ Servicios de AWS utilizados
   </tr>
 </table>
 
-Contenedores, despliegue y herramientas
+### Contenedores, despliegue y herramientas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,git,github,maven,postman" alt="Herramientas de desarrollo" />
@@ -234,7 +224,7 @@ Contenedores, despliegue y herramientas
   <img src="https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </p>
 
-Aplicaciones de escritorio
+### Aplicaciones de escritorio
 
 <table align="center">
   <tr>
@@ -279,106 +269,85 @@ Aplicaciones de escritorio
 
 <br>
 
-AdminLTE
-
-DataTables
-
-Select2
-
-SweetAlert2
-
-Chart.js
-
-Flatpickr
-
-FullCalendar
-
-Bootstrap
-
-jQuery
-
-PDO
-
-RestTemplate
+- AdminLTE
+- DataTables
+- Select2
+- SweetAlert2
+- Chart.js
+- Flatpickr
+- FullCalendar
+- Bootstrap
+- jQuery
+- PDO
+- RestTemplate
 
 </details>
 
-📌 Próximos proyectos públicos
+---
 
-Estoy preparando proyectos demostrativos basados en experiencias y problemasreales de desarrollo. Todos utilizarán información completamente ficticia yestarán separados del código de proyectos privados.
+## 📌 Próximos proyectos públicos
 
-Proyecto demostrativo
+Estoy preparando proyectos demostrativos basados en experiencias y problemas
+reales de desarrollo. Todos utilizarán información completamente ficticia y
+estarán separados del código de proyectos privados.
 
-Estado
+| Proyecto demostrativo | Estado |
+|---|---|
+| Arquitectura modular para sistemas empresariales con PHP | 🟡 En preparación |
+| API REST con Java y Spring Boot | 🟡 En preparación |
+| Transferencias de archivos entre SFTP y Amazon S3 | 🟡 En preparación |
+| Aplicación empresarial con C# y WPF | 🟡 En preparación |
+| Dashboard administrativo responsivo | 🟡 En preparación |
+| Ejercicios y buenas prácticas de SQL | 🟡 En preparación |
 
-Arquitectura modular para sistemas empresariales con PHP
+---
 
-🟡 En preparación
-
-API REST con Java y Spring Boot
-
-🟡 En preparación
-
-Transferencias de archivos entre SFTP y Amazon S3
-
-🟡 En preparación
-
-Aplicación empresarial con C# y WPF
-
-🟡 En preparación
-
-Dashboard administrativo responsivo
-
-🟡 En preparación
-
-Ejercicios y buenas prácticas de SQL
-
-🟡 En preparación
-
-🌱 Actualmente aprendiendo
+## 🌱 Actualmente aprendiendo
 
 Actualmente estoy fortaleciendo conocimientos en tecnologías frontend modernas:
 
-TypeScript
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
+- Arquitectura frontend basada en componentes
 
-React
+Estas tecnologías se muestran como parte de mi proceso de aprendizaje y todavía
+no forman parte de mi stack de experiencia productiva.
 
-Next.js
+---
 
-Tailwind CSS
+## 🧭 En qué estoy trabajando
 
-Arquitectura frontend basada en componentes
+- Mejorando arquitecturas backend y servicios con Spring Boot
+- Desarrollando soluciones empresariales modulares
+- Automatizando transferencias y procesamiento de archivos
+- Fortaleciendo prácticas de seguridad y configuración
+- Preparando proyectos públicos para compartir conocimientos
+- Desarrollando iniciativas independientes mediante Conexión Creativa
 
-Estas tecnologías se muestran como parte de mi proceso de aprendizaje y todavíano forman parte de mi stack de experiencia productiva.
+---
 
-🧭 En qué estoy trabajando
-
-Mejorando arquitecturas backend y servicios con Spring Boot
-
-Desarrollando soluciones empresariales modulares
-
-Automatizando transferencias y procesamiento de archivos
-
-Fortaleciendo prácticas de seguridad y configuración
-
-Preparando proyectos públicos para compartir conocimientos
-
-Desarrollando iniciativas independientes mediante Conexión Creativa
-
-🌐 Portafolio
+## 🌐 Portafolio
 
 Mi portafolio personal estará disponible próximamente en:
 
-stackbycarlos.conexioncreativa.com.mx
+### `stackbycarlos.conexioncreativa.com.mx`
 
-📫 Contacto
+---
 
-Para colaboraciones profesionales, proyectos independientes o intercambiotécnico, puedes utilizar los enlaces sociales disponibles en mi perfil deGitHub.
+## 📫 Contacto
+
+Para colaboraciones profesionales, proyectos independientes o intercambio
+técnico, puedes utilizar los enlaces sociales disponibles en mi perfil de
+GitHub.
+
+---
 
 <div align="center">
 
-Building software that connects ideas, processes and people.
+### Building software that connects ideas, processes and people.
 
-StackByCarlos
+**StackByCarlos**
 
 </div>
