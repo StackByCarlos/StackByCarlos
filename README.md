@@ -1,3 +1,4 @@
+<!-- ========================= INICIA PERFIL ========================= -->
 <!-- ========================= PORTADA ========================= -->
 
 <p align="center">
@@ -294,3 +295,4 @@ Para colaboraciones profesionales, proyectos independientes o intercambio técni
     alt="Footer StackByCarlos"
   />
 </p>
+<!-- ========================= TERMINA PERFIL ========================= -->
